@@ -14,6 +14,8 @@ public class FirstClass {
 
 	
 	System.out.println("first commit from remote repository");
+	System.out.println("yeni deneme");
+	
 	}
 
 }
